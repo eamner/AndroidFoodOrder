@@ -1,0 +1,67 @@
+{
+  "Foods": {
+    "1": {
+      "Image": "https://i.pinimg.com/originals/ff/ac/75/ffac757fc64d1e414422bf204f1a4f87.jpg",
+      "Food": "Hamburguesa con Tocino",
+      "Price": "3.99",
+      "Discount": ".50",
+      "Description": "Preparada con tocino y carne Angus acompañada con papas a la francesa.",
+      "MenuId": "1"
+    },
+    "2": {
+      "Image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Gruyere-and-Egg-Burgers_EXPS_THAM18_192202_B12_12_1b-3.jpg",
+      "Food": "Hamburguesa con Huevo Estrellado",
+      "Price": "65",
+      "Discount": "0",
+      "Description": "Preparada con un huevo estrellado y carne Angus acompañada con papas a la francesa.",
+      "MenuId": "1"
+    },
+    "3": {
+      "Image": "https://placeralplato.com/files/2016/01/Pizza-con-pepperoni.jpg",
+      "Food": "Pizza de Pepperoni",
+      "Price": "165",
+      "Discount": "0",
+      "Description": "Pizza con Pepperoni.",
+      "MenuId": "2"
+    },
+    "4": {
+      "Image": "https://www.kingarthurflour.com/sites/default/files/styles/featured_image/public/recipe_legacy/1374-3-large.jpg?itok=sreY41A-",
+      "Food": "Pizza Hawaiana",
+      "Price": "150",
+      "Discount": "0",
+      "Description": "Pizza Hawaiana.",
+      "MenuId": "2"
+    },
+    "5": {
+      "Image": "https://image.freepik.com/foto-gratis/uramaki-philadelphia-sushi-pepino-salmon-ahumado-sesamo_17766-22.jpg",
+      "Food": "Rollo Philadelphia",
+      "Price": "70",
+      "Discount": "0",
+      "Description": "Rollo tradicional con salmón, pepino y queso Philadelphia.",
+      "MenuId": "3"
+    },
+    "6": {
+      "Image": "https://sifu.unileversolutions.com/image/es-MX/recipe-topvisual/2/1260-709/sushi-empanizado-50229635.jpg",
+      "Food": "Rollo Empanizado",
+      "Price": "85",
+      "Discount": "0",
+      "Description": "Rollo especial empanizado con camarón, pepino y queso Philadelphia.",
+      "MenuId": "3"
+    },
+    "7": {
+      "Image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2019/05/enchiladas-verdes.png",
+      "Food": "Enchiladas Verdes",
+      "Price": "80",
+      "Discount": "0",
+      "Description": "Enchiladas verdes con pollo.",
+      "MenuId": "4"
+    },
+    "8": {
+      "Image": "https://d1uz88p17r663j.cloudfront.net/resized/52e0311f7e61d3ca9abc7f5492b0e72c_mole1_1200_600.jpg",
+      "Food": "Pollo con Mole",
+      "Price": "95",
+      "Discount": "0",
+      "Description": "Pollo bañado en salsa tradicional de mole con guarnición de arroz.",
+      "MenuId": "4"
+    }
+  }
